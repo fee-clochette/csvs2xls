@@ -1,2 +1,4 @@
 # csvs2xls
-Transform all CSV file in directory in one worksheet with multiple tabs
+Transforms all CSV files in directory in one worksheet with multiple tabs
+
+It can be useful to compile lot information in on sheet.
