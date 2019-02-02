@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 """
 Try Put together some CSV files into a single Excel file, in different sheets.
